@@ -1,0 +1,54 @@
+{
+  "name": "profile-readme-generator",
+  "displayName": "Profile Readme Generator",
+  "description": "Beautify your github profile with this amazing tool, creating the readme your way in a simple and fast way",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Mauro de Souza",
+  "type": "module",
+  "keywords": [
+    "github",
+    "readme",
+    "profile",
+    "generator",
+    "profile-readme",
+    "profile-readme-generator",
+    "github-readme-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maurodesouza/profile-readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maurodesouza/profile-readme-generator/issues"
+  },
+  "funding": {
+    "type": "paypal",
+    "url": "https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS"
+  },
+  "homepage": "https://profile-readme-generator.com",
+  "private": true,
+  "dependencies": {
+    "@styled-icons/feather": "^10.34.0",
+    "@vercel/analytics": "^0.1.11",
+    "framer-motion": "^6.2.4",
+    "html-prettify": "^1.0.5",
+    "next": "^12.1.6",
+    "next-compose-plugins": "^2.2.1",
+    "next-pwa": "^5.6.0",
+    "prismjs": "^1.27.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-share": "^4.4.0",
+    "styled-components": "^5.2.3",
+    "styled-media-query": "^2.1.2",
+    "uuid": "^8.3.2",
+    "firebase-frameworks": "^0.10.4",
+    "firebase-functions": "^4.3.0",
+    "firebase-admin": "^11.0.1"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "18"
+  }
+}

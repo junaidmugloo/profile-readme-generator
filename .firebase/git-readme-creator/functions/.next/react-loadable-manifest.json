@@ -1,0 +1,170 @@
+{
+  "..\\..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 9894,
+    "files": [
+      "static/chunks/894.884bc9854a9cfe85.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./activities": {
+    "id": 331,
+    "files": [
+      "static/chunks/331.aad606880be1b27b.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./default": {
+    "id": 2319,
+    "files": [
+      "static/chunks/319.57a10463adce1ad8.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./image": {
+    "id": 1191,
+    "files": [
+      "static/chunks/191.6939b93406748a9f.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./music": {
+    "id": 7915,
+    "files": [
+      "static/chunks/915.12ab78b85c566680.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./profile-views": {
+    "id": 3026,
+    "files": [
+      "static/chunks/26.9ee0838580416da4.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./snake": {
+    "id": 1117,
+    "files": [
+      "static/chunks/376.2dab355e83e7149b.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./socials": {
+    "id": 7318,
+    "files": [
+      "static/chunks/318.930eb01bda0cecf1.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./stats": {
+    "id": 6780,
+    "files": [
+      "static/chunks/780.66f8d438f78ac5ee.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./techs": {
+    "id": 4744,
+    "files": [
+      "static/chunks/744.253a9a0f12bdb0d3.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\index.ts -> ./text": {
+    "id": 894,
+    "files": [
+      "static/chunks/994.26b99642a2e42c88.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\stats\\views\\config\\views\\index.ts -> ./languages": {
+    "id": 5236,
+    "files": [
+      "static/chunks/236.2c65912726b04e8b.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\stats\\views\\config\\views\\index.ts -> ./stats": {
+    "id": 495,
+    "files": [
+      "static/chunks/495.0c64050c7fd87c63.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\stats\\views\\config\\views\\index.ts -> ./streak": {
+    "id": 2902,
+    "files": [
+      "static/chunks/902.8884e3b946313dd5.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\stats\\views\\index.ts -> ./config": {
+    "id": 5346,
+    "files": [
+      "static/chunks/346.443f9650c9be1294.js"
+    ]
+  },
+  "..\\components\\panels\\editing\\stats\\views\\index.ts -> ./layout": {
+    "id": 8958,
+    "files": [
+      "static/chunks/958.a5e5e678a4156da7.js"
+    ]
+  },
+  "..\\components\\panels\\panels.ts -> ./generated-files": {
+    "id": 1547,
+    "files": [
+      "static/chunks/547.0ee25da3bb7229df.js"
+    ]
+  },
+  "..\\components\\panels\\panels.ts -> ./new-section": {
+    "id": 6595,
+    "files": [
+      "static/chunks/595.a93a3b3afb8880d0.js"
+    ]
+  },
+  "..\\components\\panels\\panels.ts -> ./templates": {
+    "id": 4460,
+    "files": [
+      "static/chunks/460.8f20302a3f2427c8.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./activities": {
+    "id": 8359,
+    "files": [
+      "static/chunks/359.445c8aedd638a88e.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./image": {
+    "id": 1627,
+    "files": [
+      "static/chunks/627.2379854035170225.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./music": {
+    "id": 843,
+    "files": [
+      "static/chunks/843.7d8dc85f4e2b64ee.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./profile-views": {
+    "id": 1677,
+    "files": [
+      "static/chunks/677.809e03b44ca80c6e.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./snake": {
+    "id": 6120,
+    "files": [
+      "static/chunks/120.a9522bfc22ebe1f8.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./socials": {
+    "id": 8309,
+    "files": [
+      "static/chunks/309.9b34b2115b34bedb.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./stats": {
+    "id": 6029,
+    "files": [
+      "static/chunks/29.ef131f7a0e726896.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./techs": {
+    "id": 8927,
+    "files": [
+      "static/chunks/927.a4d82988f85fabfb.js"
+    ]
+  },
+  "..\\components\\sections\\index.ts -> ./text": {
+    "id": 8457,
+    "files": [
+      "static/chunks/457.bd41b3508ddd34ff.js"
+    ]
+  }
+}
