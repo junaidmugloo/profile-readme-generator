@@ -1,6 +1,6 @@
 const general = {
   urls: {
-    app: 'https://profile-readme-generator.com',
+    app: 'https://git-readme-creator.web.app/',
     sections: {
       music: {
         spotify: {
